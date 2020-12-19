@@ -4,5 +4,6 @@
 </p>
 
 <p align='center'>
-## [Ask a question](https://github.com/Soldy/ama/issues/new) &nbsp;&nbsp;&nbsp; [Read questions](https://github.com/Soldy/ama/issues?q=is%3Aissue+is%3Aclosed)
+<a href='https://github.com/Soldy/ama/issues/new'>Ask a question</a> ||
+<a href='https://github.com/Soldy/ama/issues?q=is%3Aissue+is%3Aclosed'>Read questionsi</a>
 </p>
