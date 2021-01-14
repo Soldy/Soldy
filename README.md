@@ -1,6 +1,6 @@
 
 <p align='center'>
-    <img src="https://gidigi.com/cdn/love.gif">
+    <img src="https://gidigi.com/cdn/love.svg">
 </p>
 
 <p align='center'>
