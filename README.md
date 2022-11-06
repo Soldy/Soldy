@@ -5,8 +5,9 @@
 
 
 <p align='center'>
-## Welcome to my GitHub page. 
-
+<h1> Welcome to my GitHub page. </h1>
+</p>
+<p align='center'>
 In my work, I work with popular things like PHP, TypeScript, Nodejs, Python, React, VueJS, MongoDB, Mysql, Postgresql, Kubernetes, Xen, CentOs, and Debian. I follow the coding standard and coding conduct that my clients have. \
 That is a stable, well-known way. However, my curiosity puts me in a less known direction in my free time. \
 I focus on my test projects, not the live codes on this page. I use Rust, Ada, Javascript, TypeScript, Nodejs, C++, C, OpenBSD, Gentoo, and Alpine. I  try multiple different coding conducts.\
